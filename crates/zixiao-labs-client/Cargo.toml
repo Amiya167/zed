@@ -1,0 +1,11 @@
+[package]
+name = "zixiao-labs-client"
+version = "0.1.0"
+publish.workspace = true
+edition.workspace = true
+
+[dependencies]
+radian = { workspace = true }
+
+[lints]
+workspace = true
