@@ -5,3 +5,9 @@ fn main() {
 fn connect() {
     unimplemented!()
 }
+fn login() {
+    unimplemented!()
+}
+fn get_repo() {
+    unimplemented!()
+}
